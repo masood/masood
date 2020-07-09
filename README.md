@@ -1,4 +1,4 @@
-### Hello (Carbon-based Lifeforms)[https://vosotros.glitch.me/]!
+### Hello [Carbon-based Lifeforms](https://vosotros.glitch.me/)!
 I code, write, and research. On most days, I try learning as much as I can in hopes of churning out everything I'm learning the minute I get the chance to do so!
 
 I like to dabble with Python and Bash, advocate for security and privacy, and read speculative fiction.
