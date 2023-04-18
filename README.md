@@ -1,7 +1,8 @@
 ### Hello [Carbon-based Lifeforms](https://vosotros.glitch.me/)!
-I code, write, and research. On most days, I try learning as much as I can in hopes of churning out everything I'm learning the minute I get the chance to do so!
 
-I like to dabble with Python and Bash, advocate for security and privacy, and read speculative fiction.
+I am a PhD student in the Department of Computer Science at the University of Illinois Chicago. I am advised by Chris Kanich and Jason Polakis.
+
+My research focuses on evaluating the security and privacy mechanisms of web browsers and web applications. My work has resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms. Through my work I aim to assist developers and researchers in identifying the privacy implications of their deployments for end users, and help them develop robust countermeasures.
 
 <!--
 **masood/masood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
